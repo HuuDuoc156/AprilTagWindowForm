@@ -33,4 +33,4 @@ The demonstration video can be found [here](https://youtu.be/W1fL9RylnOQ).
 
 ## License
 
-This work is distributed under the GPL-3.0 License found in the LICENSE file.
+This work is distributed under the GPL-3.0 License found in the [LICENSE](LICENSE) file.
