@@ -14,7 +14,7 @@ This program is built based on the work of [BlackJocker1995](https://github.com/
 
 - **BlackJocker1995** provides C# source codes to detect AprilTag. The original repository can be found [here](https://github.com/BlackJocker1995/Apriltagcsharp).
 - **Goh Chulin** writes the library to detect video capture devices and stream their images with C#. The original work can be found [here](https://github.com/goh-chunlin/WebcamWinForm).
-- Please give credits to these two when you use this program.
+- The successful operation of this program is credited to their works.
 
 Herein, I combine their works to make a simple program allowing the users to use as a base to develop their AprilTag applications with Windows Form and C#.
 
