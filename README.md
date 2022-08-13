@@ -2,7 +2,7 @@
 
 ## Description
 
-![AprilTagWindowForm](image/Display.png)
+![AprilTagWindowForm](image/Display.PNG)
 
 This project creates a Window Form application written in C# allowing users to detect AprilTag.
 
