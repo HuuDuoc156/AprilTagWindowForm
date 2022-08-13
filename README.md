@@ -6,8 +6,7 @@
 
 This project creates a Window Form application written in C# allowing users to detect AprilTag.
 
-AprilTag is a visual fiducial system. Its application widely ranges from augmented reality, robotics, and camera calibration. AprilTag is developed by April Robotic Lab. Please find more information at the lab's [website](https://april.eecs.umich.edu/software/apriltag)  
-April Robotic Lab provides a well-developed library to establish programs detecting AprilTag. In addition, the supported library allows the programs to be written in many languages, such as C, and Python.
+AprilTag is a visual fiducial system. Its application widely ranges from augmented reality, robotics, and camera calibration. AprilTag is developed by April Robotic Lab. Please find more information at the lab's [website](https://april.eecs.umich.edu/software/apriltag). April Robotic Lab provides a well-developed library to establish programs detecting AprilTag. In addition, the supported library allows the programs to be written in many languages, such as C, and Python.
 
 Herein, this program demonstrates the detection of AprilTag using Windows Form written with C#.
 
